@@ -10,4 +10,4 @@
 - 😄 Pronouns: He/His
 
 - ⚡ Check out my projects live <a href="http://www.alihalmamat.com/projects" target="_blank" el="noopener noreferrer">right here</a>. 
-<img src = "https://github-readme-stats.vercel.app/api?username=mr-uyghur" />
+<img src = "https://github-readme-stats.vercel.app/api?username=mr-uyghur&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
