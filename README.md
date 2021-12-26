@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with front end development.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: ali.halmamat.job@gmail.com 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 
 - ⚡ Check out my projects live <a href="http://www.alihalmamat.com/projects" target="_blank" el="noopener noreferrer">right here</a>. 
 <img src = "https://github-readme-stats.vercel.app/api?username=mr-uyghur&show_icons=true&theme=tokyonight" >
