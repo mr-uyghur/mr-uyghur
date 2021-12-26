@@ -8,4 +8,4 @@
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: ali.halmamat.job@gmail.com 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm trilingual. 
+- ⚡ Check out my projects live on http://www.alihalmamat.com/projects. 
