@@ -9,3 +9,4 @@
 - 📫 How to reach me: ali.halmamat.job@gmail.com 
 - 😄 Pronouns: He/His
 - ⚡ Check out my projects live on http://www.alihalmamat.com/projects. 
+<img src = "https://github-readme-stats.vercel.app/api?username=mr-uyghur" />
