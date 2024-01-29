@@ -7,4 +7,4 @@
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: ali.halmamat.job@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Check out my projects live <a href="http://www.alihalmamat.com/projects" >right here</a>. 
+
