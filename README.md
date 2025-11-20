@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: ali.halmamat.job@gmail.com 
-- 😄 Pronouns: He/Him
+- 😄 Portfolio: https://mr-uyghur.github.io/react_portfolio/
 
